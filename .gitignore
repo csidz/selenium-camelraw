@@ -1,0 +1,10 @@
+.idea/
+.cache/
+geckodriver.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
